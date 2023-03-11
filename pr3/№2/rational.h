@@ -3,7 +3,7 @@ using namespace std;
 
 class Rational {
 private:
-    int a, b; // числитель и знаменатель
+    int a, b; 
 
 public:
     Rational() {
